@@ -1,0 +1,12 @@
+openai
+python-dotenv
+
+huggingface-hub
+numpy
+Pillow
+scikit-learn
+scipy
+torch
+transformers
+
+python-Levenshtein
