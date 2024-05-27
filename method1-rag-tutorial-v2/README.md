@@ -1,6 +1,6 @@
 # RAG implementation, Method 1
 Repurposed for testing using the resources in:
-https://github.com/pixegami/rag-tutorial-v2.git
+<https://github.com/pixegami/rag-tutorial-v2.git>
 
 ## Features
 - **Embedding Initialisation**: Initialise embedding models tailored for specific document processing needs.
@@ -18,6 +18,7 @@ https://github.com/pixegami/rag-tutorial-v2.git
 6. **query_rag**: Process queries using the stored document data to generate intelligent responses.
 
 ## Usage
+- Ensure ollama is installed and running on your computer. To see how to do this, visit <https://github.com/ollama/ollama>.
 - Ensure the desired language model(s) and embedding model(s) have already been pulled using `ollama pull <model>`.
 - Set embedding models in `run_main.bat` using the syntax `@REM python %BASE_DIR%main.py --embedding_model <ollama embedding model>`.
 - To run more embedding models, repeat the above line of text with a different embedding model in `run_main.bat`.
