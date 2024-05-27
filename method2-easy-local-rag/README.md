@@ -10,13 +10,13 @@ https://github.com/AllAboutAI-YT/easy-local-rag.git
 - **Chat Handling**: Manages chat interactions, dynamically integrating user inputs into the system's knowledge base.
 
 ## Key Functions
-1. **convert_pdf_to_text**: Extracts text from PDF files.
-2. **upload_txtfile**: Processes text files into smaller, manageable chunks.
-3. **get_relevant_context**: Finds the most relevant pieces of text based on input queries.
-4. **rewrite_query**: Enhances queries using AI to include more context and detail.
-5. **ollama_chat**: Manages a full chat session, processing and responding to user inputs.
-6. **delete_vault_file**: Cleans up by deleting specified files.
-7. **generate_embeddings**: Creates embeddings from text for use in machine learning models.
+- **convert_pdf_to_text**: Extracts text from PDF files.
+- **upload_txtfile**: Processes text files into smaller, manageable chunks.
+- **get_relevant_context**: Finds the most relevant pieces of text based on input queries.
+- **rewrite_query**: Enhances queries using AI to include more context and detail.
+- **ollama_chat**: Manages a full chat session, processing and responding to user inputs.
+- **delete_vault_file**: Cleans up by deleting specified files.
+- **generate_embeddings**: Creates embeddings from text for use in machine learning models.
 
 ## Usage
 - Ensure the desired language model(s) and embedding model(s) have already been pulled using `ollama pull <model>`.
