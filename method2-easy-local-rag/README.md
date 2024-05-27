@@ -1,6 +1,6 @@
 # RAG implementation, Method 2
 Repurposed for testing using the resources in:
-https://github.com/AllAboutAI-YT/easy-local-rag.git
+<https://github.com/AllAboutAI-YT/easy-local-rag.git>
 
 ## Features
 - **PDF to Text Conversion**: Converts PDF documents to text, making them accessible for further processing.
@@ -19,6 +19,7 @@ https://github.com/AllAboutAI-YT/easy-local-rag.git
 - **generate_embeddings**: Creates embeddings from text for use in machine learning models.
 
 ## Usage
+- Ensure ollama is installed and running on your computer. To see how to do this, visit <https://github.com/ollama/ollama>.
 - Ensure the desired language model(s) and embedding model(s) have already been pulled using `ollama pull <model>`.
 - Run `main.py` to conduct tests and handle responses. 
 
