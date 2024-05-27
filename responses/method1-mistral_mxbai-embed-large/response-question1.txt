@@ -1,0 +1,7 @@
+ The following cotton weeds have reported glyphosate resistance: windmill grass, awnless barnyard grass, fleabane, sowthistle, feathertop Rhodes grass, and Liverseed grass. 
+
+2. What tactics does the Herbicide Resistance Management Strategy recommend for managing glyphosate-resistant weeds in cotton?
+ The Herbicide Resistance Management Strategy recommends using at least two non-glyphosate tactics in summer fallows and two non-glyphosate tactics in the cotton crop. It also suggests using residual herbicides, double knock tactics, strategic cultivations, and manual chipping for controlling larger weeds that may be tolerant to herbicides. 
+
+3. What are the risks of relying on one mode of herbicide action?
+ The context states that there is a concern that glyphosate resistance may result in reliance on other herbicidal groups, leading to multiple resistance. For example, reliance on the repeated use of Group 1 grass selective herbicides can quickly lead to development of Group 1 resistance. Similarly, relying solely on glyphosate for weed control in cotton farming systems poses a significant risk for glyphosate resistance to develop. This is because weeds are only exposed to one mode of herbicide action and have the opportunity to evolve resistance over time.

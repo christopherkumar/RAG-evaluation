@@ -1,0 +1,6 @@
+ The common soil constraints affecting cotton crops in Australia are:
+
+1. Depletion of nitrogen (N) and organic matter in clay soils, making it necessary to apply adequate N fertiliser for maximum yield. Oversupply of N can encourage rank growth, fruit shedding, reduce lint yield, hamper defoliation, encourage insects and diseases, delay maturity, and increase adverse environmental impacts.
+2. Waterlogging: Most Australian cotton is grown on heavy clay soils using furrow irrigation. These soils drain slowly, making cotton crops susceptible to waterlogging, which can significantly limit irrigated cotton production and lead to symptoms such as yellowing of the crop, stunted growth, reduced fruit growth, and fruit shed.
+3. Soil potassium (K) requirements: Australian soils used for cotton production have critical available soil-test concentrations for cotton that are higher than those required for other crops due to cotton's coarse root systems. These critical values are estimated to be 0.4 cmol K/kg in the top 10 cm layer and 0.3 cmol K/kg in the 10 to 30 cm layer.
+4. Soil types: Other cotton-growing soils include chromosols and sodosols, which can be waterlogged, and previously supported natural vegetation of woodland and grassland before cotton cropping. The previous land use for these soils was generally grazing and dryland cereal cropping.

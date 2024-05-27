@@ -1,0 +1,19 @@
+ To optimize spray application, several factors need to be considered carefully. These include:
+
+1. Appropriate nozzle selection for products and adjuvants based on label requirements and target conditions.
+2. Proper operating parameters such as nozzle spacing, operating pressure, travel speed, and spray release height.
+3. Meeting label requirements for spray quality and drift risk.
+4. Timing of mobile targets (insects) for optimal effectiveness.
+5. Careful calculation of actual field rates for product and water.
+6. Ensuring the water used is of suitable quality.
+7. Consideration of potential incompatibilities during mixing.
+8. Identifying spray drift factors and avoiding hazardous inversion conditions, possibly halting the spray operation if conditions become unfavorable.
+9. Familiarity with product labels to understand their recommendations and restrictions.
+10. Following up on recommendations by assessing efficacy and efficiency post-spray.
+11. Using mult-outlet nozzle bodies for easy nozzle changes.
+12. Utilizing water rates appropriate for the coverage required while maintaining product efficacy, considering minimum water rates and weather conditions.
+13. Selecting suitable droplet sizes to achieve target coverage without increasing off-target movement risk.
+14. Consideration of swath width and its relation to a spray plane's swath width.
+15. Membership or accreditation with organizations like the Aerial Application Association of Australia (AAAA) for professional services and resources.
+16. Reducing drift by maximizing efficacy against target pests while minimizing off-target movement, considering weather conditions and spray application setup and operation.
+17. Using vegetative plantings as spray drift barriers instead of remnant native vegetation or environmental corridors.

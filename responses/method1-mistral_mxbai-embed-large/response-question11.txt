@@ -1,0 +1,13 @@
+ The Resistance Management Plan (RMP) is a proactive plan designed to mitigate the risks of insect resistance developing in Bt cotton. The principles of the RMP include:
+
+1. Minimizing the exposure of Helicoverpa spp. to Bacillus thuringiensis (Bt) proteins Cry1Ac, Cry2Ab and Vip3A.
+2. Providing a population of susceptible individuals that can mate with any resistant individuals, hence diluting any potential resistance.
+3. Removing resistant individuals at the end of the cotton season.
+
+The elements of the RMP are:
+
+1. Planting timing restrictions: This refers to specific planting dates to ensure that susceptible Helicoverpa spp. are present in the field when Bt cotton is being grown.
+2. Refuges: These are unsprayed areas of cotton or other crops where susceptible Helicoverpa spp. can survive and breed, providing a source of susceptible individuals for mating with any resistant individuals that may be present in the Bt cotton field.
+3. Control of volunteers and ratoon cotton: This involves removing volunteer cotton plants from non-Bt fields and not planting ratoon cotton (replanting the same cotton crop in the same season) to prevent the buildup of resistant Helicoverpa spp. populations.
+4. Pupae destruction/trap crops: This involves destroying pupae (the stage between larvae and adult insects) or growing trap crops (attractive non-Bt crops) to divert Helicoverpa spp. away from the Bt cotton fields, reducing their exposure to the Bt proteins.
+5. Scouting: Regularly checking the crops for pests, damage, weeds, and growth to ensure that insecticide applications are targeted effectively and that any resistance issues are identified early.

@@ -1,0 +1,9 @@
+ Long-fallow disorder, a condition where cotton fields are left bare or fallow for extended periods (more than 3 to 4 seasons), can lead to significant declines in arbuscular mycorrhizal fungi (AMF) populations in the soil. AMF play a crucial role in nutrient exchange between the soil and cotton plants, particularly in the uptake of phosphorus (P) and zinc (Zn).
+
+The absence or reduction of AMF populations in long-fallow soils can result in poor moisture storage capability, limiting rain-grown cotton production. Inoculation with VAM fungi does not fully restore the population to a significant nutrient uptake quantity. Instead, the best means to maintain mycorrhizal activity and promote soil health is through crop rotation systems with shorter fallows.
+
+Long-fallow disorder can also impact the abundance and diversity of soil microbial populations. Although bare fallow may have lower disease levels (such as Verticillium wilt) compared to continuous cotton, the lack of a diverse microbial community can negatively affect long-term soil health.
+
+Additionally, the response of cotton to phosphorus fertilizer is more significant where mycorrhizal colonization is reduced due to low soil temperatures or following long fallow periods. In such cases, AMF play a critical role in helping cotton plants absorb phosphorus and zinc from the soil.
+
+Therefore, understanding the implications of long-fallow disorder on mycorrhizal populations is essential for optimizing rain-grown cotton production and maintaining healthy cotton soils over the long term.
