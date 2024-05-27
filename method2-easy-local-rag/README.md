@@ -21,7 +21,9 @@ Repurposed for testing using the resources in:
 ## Usage
 - Ensure ollama is installed and running on your computer. To see how to do this, visit <https://github.com/ollama/ollama>.
 - Ensure the desired language model(s) and embedding model(s) have already been pulled using `ollama pull <model>`.
-- Run `main.py` to conduct tests and handle responses. 
+- Move/Copy the `data` directory into `method2-easy-local-rag`.
+- Run `main.py` to conduct tests and handle responses.
+- Questions are pulled from `testquestions-final.txt`.
 
 ## Dependencies
 - `pypdf2`
