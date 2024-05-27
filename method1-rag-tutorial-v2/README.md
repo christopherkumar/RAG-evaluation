@@ -23,7 +23,9 @@ Repurposed for testing using the resources in:
 - Set embedding models in `run_main.bat` using the syntax `@REM python %BASE_DIR%main.py --embedding_model <ollama embedding model>`.
 - To run more embedding models, repeat the above line of text with a different embedding model in `run_main.bat`.
 - Define language models in `main.py` in the array `llms=[<ollama language model(s)>]`.
+- Move/Copy the `data` directory into `method1-rag-tutorial-v2`.
 - Run `run_main.bat` to conduct tests and handle responses. This will iterate through `main.py` using the embedding models defined.
+- Questions are pulled from `testquestions-final.txt`.
 
 ## Dependencies
 - `tqdm`
