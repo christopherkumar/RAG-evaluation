@@ -1,0 +1,12 @@
+ In visual soil assessments (VSAs), three key aspects of soil health are evaluated: porosity, mottling, and soil color. Let's discuss each assessment method:
+
+1. Porosity:
+Porosity refers to the spaces within the soil that allow for air and water infiltration. To evaluate porosity in VSAs, a slice of soil is carefully lifted and assessed for structure and the presence of fine aggregates or peds (stable units of soil). A good condition will have well-structured soil with abundant fine aggregates or peds, indicating high porosity and excellent water and air holding capacity.
+
+2. Mottling:
+Mottling is a phenomenon that occurs when the soil becomes anaerobic and reduces the state of various elements in the soil. This reduction in the oxidation-reduction (redox) potential of the soil leads to a colour change, often manifesting as dark or lighter patches (mottles) within the soil profile.
+
+In VSAs, mottling is evaluated by carefully examining the surface and subsurface layers of the soil for signs of colour changes or mottles. The presence and extent of mottles are indicative of the degree to which the soil has become anaerobic and reduced the oxidation-reduction potential.
+
+3. Soil Color:
+Soil color is a visual property that reflects the chemical, mineralogical, and biological composition of the soil. In VSAs, soil color is evaluated by comparing the color of the soil being assessed with reference soils or standard color charts to determine the dominant hue, tone, and saturation. The evaluation of soil color can provide valuable insights into the underlying chemical, mineralogical, and biological characteristics of the soil and its potential to support productive agriculture, healthy ecosystems, and sustainable land management practices.

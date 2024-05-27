@@ -1,0 +1,7 @@
+ To optimize spray application, several factors need to be considered:
+
+1. Nozzle selection: Choosing the appropriate nozzle for the product and target is crucial to ensure efficient and effective spray coverage.
+2. Operating parameters: Properly setting up operating parameters such as nozzle spacing, operating pressure, travel speed, and spray release height are necessary to optimize spray application.
+3. Spray quality and drift risk: Meeting label requirements for spray quality and drift risk is essential to ensure efficient and effective spray coverage while minimizing the impact on non-target areas.
+4. Timing for mobile targets (insects): Careful calculation of actual field rates for product and water, as well as consideration of the potential for incompatibilities during mixing, are necessary to optimize spray application for mobile targets such as insects.
+5. Regular calibration and rig maintenance: Ensuring that the water used is of suitable quality, regular calibration and rig maintenance, and thorough decontamination of application equipment after use are all essential practices to optimize spray application while minimizing any potential negative impacts on non-target areas or the environment as a whole.

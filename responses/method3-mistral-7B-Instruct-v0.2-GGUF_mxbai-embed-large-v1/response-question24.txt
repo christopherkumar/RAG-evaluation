@@ -1,0 +1,18 @@
+ Soil organic carbon (SOC) is usually measured using one of two main methods: Walkley-Black or loss on ignition.
+
+The Walkley-Black method involves extracting the SOC from the soil by oxidizing it with potassium permanganate (KMnO4). The amount of SOC is then determined by measuring the amount of CO2 produced during the oxidation process.
+
+The loss on ignition method, also known as the gravimetric method, involves heating the soil in an oven at a high temperature to completely destroy all organic matter, leaving only the inorganic minerals. The amount of SOC is then determined by calculating the difference between the initial weight of the soil sample and the final weight after ignition.
+
+Now, why is measuring and understanding the importance of SOC important?
+
+Soil organic carbon (SOC) plays a crucial role in maintaining the overall health and productivity of soils, as well as contributing to mitigating climate change by sequestering atmospheric CO2.
+
+Some of the key functions and benefits of SOC include:
+
+1. Provides a source of energy and nutrients for soil microbes, which in turn helps maintain the overall structure, stability, and fertility of the soil.
+2. Acts as a glue or binding agent that helps keep mineral particles together in the soil, improving its structural stability and water holding capacity.
+3. Helps buffer or mitigate the harmful effects of acid rain, excess nutrient runoff, or other forms of environmental stress on soils, maintaining their overall health and productivity.
+4. Contributes to sequestering atmospheric CO2 through the process of photosynthesis, during which carbon dioxide is absorbed from the air and converted into organic matter in the soil, which in turn helps maintain its overall structural stability, fertility, and water holding capacity.
+
+Overall, measuring and understanding the importance of SOC plays a vital role in maintaining the overall health and productivity of soils, as well as contributing to mitigating climate change by sequestering atmospheric CO2.
