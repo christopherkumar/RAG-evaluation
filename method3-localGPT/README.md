@@ -18,7 +18,9 @@ Repurposed for testing using the resources in:
 - `utils.py` contains additional functionalities for logging and embedding generation.
 - Configure `constants.py` with the desired embedding and language models.
 - Execute `ingest.py` to load and process documents from your specified directories.
-- Run `main.py` to conduct tests and handle responses. 
+- Move/Copy the `data` directory into `method3-localGPT`.
+- Run `main.py` to conduct tests and handle responses.
+- Questions are pulled from `testquestions-final.txt`.
 
 
 ## Dependencies
