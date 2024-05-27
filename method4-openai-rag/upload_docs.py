@@ -20,7 +20,7 @@ vector_store = client.beta.vector_stores.create(name="Agricultural Queries")
 existing_files = {file.filename for file in client.beta.vector_stores.files.list(vector_store_id=vector_store.id)}
 
 # Specify the directory path and prepare files for upload
-directory_path = "F:/RAGassessment/openai-rag/SOURCE_DOCUMENTS"
+directory_path = "F:/RAGassessment/openai-rag/data"
 file_paths = [
     os.path.join(directory_path, file) for file in os.listdir(directory_path)
     if file.endswith(('.pdf', '.txt')) and file not in existing_files
