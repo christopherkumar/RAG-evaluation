@@ -1,6 +1,0 @@
-Timing of Soil Sampling
-When: Soil sampling should be done before the crop is sown, ideally between July and September. This timing helps ensure that significant changes in soil nutrient content do not occur before sowing. If fertiliser is applied before sampling, a small, unfertilised area should be left for soil sample collection​​.
-Where to Sample Soil
-High-variability areas: Aim for a comprehensive sampling grid approximately every 400 meters across cotton fields, equating to one sampling site per 16 hectares. Use a flexible sampling grid or management zones determined by yield maps​​.
-Depth of Sampling: For irrigated cotton, the recommended sampling depth for most nutrients is 0 to 30 cm. In dryland fields, standard depths are 0 to 10 cm and 10 to 30 cm. Additional samples up to 1 meter may be necessary to indicate mineral N and S levels and to detect subsoil constraints like salinity and sodicity​​.
-Avoid Specific Locations: Do not collect samples from atypical areas such as old fence lines, filled-in irrigation channels, near trees, or if the soil is excessively wet. Avoid sampling from fertiliser bands from previous applications to prevent skewed results​​.
