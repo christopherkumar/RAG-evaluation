@@ -15,6 +15,7 @@ RAG implementation using OpenAI vector stores, assistants and file search utilit
 - Run `upload_docs.py` to manage the documents that serve as the knowledge base for queries. OpenAI API key, vector_store_id and assistant_id initialised here. Vector store and chat assistant created if not already. Set in .env for future use. 
 - `rag_queries.py` used for querying OpenAI with questions and handling the responses.
 - Run `main.py` to conduct tests and handle responses. Can update language model if needed.
+- Questions are pulled from `testquestions-final.py`. This file is carried over from a separate project, hence the additional unused parts within this script.
 
 ## Dependencies
 - `os`
