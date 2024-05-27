@@ -1,6 +1,6 @@
 # RAG implementation, Method 3
 Repurposed for testing using the resources in:
-https://github.com/PromtEngineer/localGPT.git
+<https://github.com/PromtEngineer/localGPT.git>
 
 ## Modules
 - **`constants.py`**: Defines constants and configurations for the application.
